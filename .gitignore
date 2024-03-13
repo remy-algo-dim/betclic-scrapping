@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+src/data.csv
+.env
+
 __pycache__/
 *.py[cod]
 *$py.class
